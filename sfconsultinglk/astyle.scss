@@ -1,0 +1,11 @@
+$color :"#0000";
+body{
+    color: $color;
+}
+
+@mixin shaii {
+    p{
+        color: gold;
+    }
+    
+}
